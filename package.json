@@ -1,0 +1,22 @@
+{
+  "name": "w2ui-starter-react",
+  "version": "1.0.0",
+  "description": "`Work in progress... not ready yet`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitmalina/w2ui-starter-react.git"
+  },
+  "author": "Vitali Malinouski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitmalina/w2ui-starter-react/issues"
+  },
+  "homepage": "https://github.com/vitmalina/w2ui-starter-react#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
